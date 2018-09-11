@@ -2,7 +2,7 @@
 Politilounge Website
 
 # Project Motivations
-* @ckrailo and @accua wanted a project to hack on while learning Elixir, but quickly realized that others could benefit from an open learning process as well.
+* [@ckrailo](https://github.com/ckrailo) and [@accua](https://github.com/accua) wanted a project to hack on while learning Elixir, but quickly realized that others could benefit from an open learning process as well.
 * Now, we want to open the project and process up to others who want to learn as well or help mentor others.
 
 # Project Goals
@@ -22,3 +22,7 @@ Politilounge Website
 - RestAPI endpoint for ???
 - GraphQL endpoint for ???
 - Web frontend for querying data from the [Google Civic Information API](https://developers.google.com/civic-information/).
+
+# Collaboration
+Please, come hack with us! This is our first Elixir project and first time trying out this open source learning project thing, so there's bound to be some mistakes. Learners and mentors should join the slack team below...
+- Slack: [Elixir Slack Team](https://elixir-slackin.herokuapp.com/), channel: #politilounge
